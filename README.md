@@ -1,6 +1,13 @@
 # Fuel Management System
 
 A comprehensive, modern, and scalable solution for managing fuel stations, bookings, and user operations across multiple platforms. The system includes a robust backend API, web-based admin dashboard, and mobile applications for seamless fuel management.
+## 📦 Child Repository
+
+ - **Admin Frontend repository**:(https://github.com/mame534424/fuel-admin-frontend)
+ - **Backend Repository**:(https://github.com/mame534424/fuel-management-backend/)
+ - **Mobile App repository**(https://github.com/mame534424/e-fuel-mobile)
+ 
+ 
 
 ## Demo Video
 
