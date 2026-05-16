@@ -2,6 +2,12 @@
 
 A comprehensive, modern, and scalable solution for managing fuel stations, bookings, and user operations across multiple platforms. The system includes a robust backend API, web-based admin dashboard, and mobile applications for seamless fuel management.
 
+## Demo Video
+
+[![Watch the Loom walkthrough](https://cdn.loom.com/sessions/thumbnails/39617daace92433c94defa692ca21ea9-with-play.png)](https://www.loom.com/share/39617daace92433c94defa692ca21ea9)
+
+Click the image to watch the full system walkthrough on Loom.
+
 ## 🎯 Project Overview
 
 The Fuel Management System is an integrated platform designed to revolutionize fuel distribution and consumption management. It provides administrators with complete control over fuel stations, enables efficient booking systems with real-time queue management, and offers users convenient access to fuel services.
@@ -61,7 +67,7 @@ fuel-management-system/
 - **Admin Frontend repository**:(https://github.com/mame534424/fuel-admin-frontend)
 
 - **Purpose**: Administrative dashboard for managing stations,
- bookings, users, and analytics.
+  bookings, users, and analytics.
 
 ### Backend API
 
