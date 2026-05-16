@@ -10,7 +10,7 @@ A comprehensive, modern, and scalable solution for managing fuel stations, booki
 
 ## Demo Video
 
-[![Watch the Loom walkthrough](../assets/loom_video_thumbnail.png)](https://www.loom.com/share/39617daace92433c94defa692ca21ea9)
+[![Watch the Loom walkthrough](./loom_video_thumbnail.png)](https://www.loom.com/share/39617daace92433c94defa692ca21ea9)
 
 Click the image to watch the full system walkthrough on Loom.
 
